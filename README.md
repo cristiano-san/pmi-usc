@@ -312,7 +312,8 @@ We accept 9-12 months of running dual platforms because:
 ## 📞 Contact
 
 **Cristiano Menezes dos Santos**<br>
-cristianosantosde@gmail.com
+cristianosantosde@gmail.com<br>
+https://www.linkedin.com/in/cristianos
 
 Thank you for reviewing my case study. I look forward to presenting this plan and diving deeper into any areas that interest you during our session.
 
