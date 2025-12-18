@@ -1257,14 +1257,8 @@ No trust → Partners refuse migration → Stuck on dual platforms forever
 
 ### B. Reference Documents
 
-**Case Study Materials:**
-- [Staff Product Manager - Domain Agnostic - Case Study.pdf](Staff%20Product%20Manager%20-%20Domain%20Agnostic%20-%20Case%20Study.pdf)
-- [USC-Wellhub PMI Presentation (USC.pdf)](USC.pdf)
-- [Comprehensive Dependency Mapping (CSV)](comprehensive-dependency-mapping-all-phases.csv)
-- [PMI Integration Strategy](pmi-integration-strategy.md)
-
 **GitHub Repository:**
-- [https://github.com/cristiano-san/pmi](https://github.com/cristiano-san/pmi)
+- [https://github.com/cristiano-san/pmi](https://github.com/cristiano-san/pmi-usc)
 
 ---
 
